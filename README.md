@@ -1,8 +1,9 @@
 ## Olá, eu sou o Júlio César Droszczak, sou apaixonado por programação e tecnologia!
+
 <div align="center">
   <a href="https://github.com/Droszczak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Droszczak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Droszczak&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Droszczak&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/evenogueira/github-readme-stats"/>
 </div>
 
 ## Já trabalhei e/ou trabalho com...
