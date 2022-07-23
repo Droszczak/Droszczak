@@ -42,14 +42,10 @@
   <a href="https://www.linkedin.com/in/julio-cesar-droszczak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/juliocesardroszczak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:julio.droszczak@ufpr.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
 ## Um pouco mais sobre minhas experiências e qualifocações!
-
 
 Sou profissional Graguado em Engenharia Mecânica e Especialista em Industria 4.0 pela universidade Federal do Paraná - UFPR.
 
