@@ -51,7 +51,7 @@ Sou profissional Graguado em Engenharia Mecânica e Especialista em Industria 4.
 
 Nos últimos anos venho estudando Data Science buscando combinar soft e hard skills, como capacidade de trabalhar em ambientes de equipe, técnicas de negociação, programação R, Python, SQL, DAX e M, gerenciamento de banco de dados e modelagem de Machine Learning para resolver problemas de negócios baseados em dados.
 
-Tenho mais de 15 anos de experiência profissional na Indústria Automotiva como Lider Lean Manufacturing e Analista de Engenharia de Processos. Você pode ler mais sobre minhas experiências de trabalhos em meu perfil no [**LinkedIn**.](https://www.linkedin.com/in/julio-cesar-droszczak/)
+Tenho experiência profissional na Indústria como Analista e Lider Lean Manufacturing e Engenharia de Processos. Você pode ler mais sobre minhas experiências de trabalhos em meu perfil no [**LinkedIn**.](https://www.linkedin.com/in/julio-cesar-droszczak/)
 
 Atualmente morando em Curitiba, e atuando como Analista de Dados Sênior para uma das maiores Fintech do mundo, onde junto com a equipe de dados aplicamos o nosso conhecimento das ferramentas de desenvolvimento em modelagem e visualização de dados para análises (KPIs) e tomadas de decisão.
 
