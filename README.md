@@ -49,11 +49,19 @@
 
 Sou profissional Graguado em Engenharia Mecânica e Especialista em Industria 4.0 pela universidade Federal do Paraná - UFPR.
 
-Nos últimos anos venho estudando Data Science buscando combinar soft e hard skills, como capacidade de trabalhar em ambientes de equipe, técnicas de negociação, programação R, Python, SQL, DAX e M, gerenciamento de banco de dados e modelagem de Machine Learning para resolver problemas de negócios baseados em dados.
+Nos últimos anos venho estudando Engenharia de Dados, Ciência de Dados e Gestão, buscando combinar soft e hard skills, para meu desenvolvimento profissional.
 
-Tenho experiência profissional na Indústria como Analista e Lider Lean Manufacturing e Engenharia de Processos. Você pode ler mais sobre minhas experiências de trabalhos em meu perfil no [**LinkedIn**.](https://www.linkedin.com/in/julio-cesar-droszczak/)
+Hoje atuo como responsável por apoiar o negócio com Transformação Digital, bem como projetos relacionados a Análise de Dados/Big Data, atuando como Engenheiro/Cientista de Dados na área de Digital Indop, PMO & BI, em conjunto com as áreas de Manufatura, Logística e demais áreas de Operações da América Latina, tanto no desenvolvimento de PoCs e PoV, como na implementação de projetos, gerando insights para a implementação de melhorias com base nos dados de processos das operações industriais.
 
-Atualmente morando em Curitiba, e atuando como Analista de Dados Sênior para uma das maiores Fintech do mundo, onde junto com a equipe de dados aplicamos o nosso conhecimento das ferramentas de desenvolvimento em modelagem e visualização de dados para análises (KPIs) e tomadas de decisão.
+Principais Responsabilidades:
+- Realizar provas de conceito envolvendo Extração, Transformação e Análise de Dados pontuais (Visualização (DataViz), Análises de Correlação, Clusterização, Algoritmos de Classificação e outros), bem como atuar como gerente de projeto – coordenando a implementação de projetos desde a etapa de criação de Business Case e planejamento, até a entrega final, mensuração e apresentação dos resultados;
+- Identificar oportunidades de melhorias de processo através do uso dos dados (Process Mining) aplicando meus conhecimentos em Data Science para suportar PoC e PoV demandadas pela planta;
+- Atuo como agente de mudança para implantação de uma cultura “Data-Driven”, estabelecendo também parcerias com áreas de negócio atendidas, assim como com fornecedores que proveem as soluções;
+- Realizo estudo de viabilidade técnica de soluções de TI, atendendo às definições de arquitetura nos níveis local, regional e global.
+
+Como falei acima tenho boas experiências profissionais como Engenheiro de Dados, Analista e Lider Lean Manufacturing em Processos. Você pode saber um pouco mais sobre minhas experiências de trabalho em meu perfil no [**LinkedIn**.](https://www.linkedin.com/in/julio-cesar-droszczak/)
+
+Atualmente morando em Curitiba, e atuando como Engenheiro de Dados Sênior para Electrolux, onde sou o responsável por apoiar o negócio com Transformação Digital, realizando provas de conceito envolvendo Extração, Transformação e Análise de Dados pontuais (Visualização (DataViz), Análises de Correlação, Clusterização, Algoritmos de Classificação e outros), bem como atuando como gerente de projeto – coordenando a implementação de projetos desde a etapa de criação de Business Case e planejamento, até a entrega final, mensuração e apresentação dos resultados.
 
 ### 🎯 **Qualificações, Habilidades e Experiências que possuo**
 
@@ -67,41 +75,24 @@ Atualmente morando em Curitiba, e atuando como Analista de Dados Sênior para um
 - Apoiar quaisquer áreas para levantamento de informações específicas.
 - Modelos de previsão (Machine Learning)
 
-**Minhas qualificações:**
+**Minhas principais formações:**
 - Especializando em Engenharia Industrial 4.0 - UFPR
 - Mestrando Engenharia de Manufatura - UFPR
 - Engenheiro Mecânico Graduado - UTP
 - Black Belt Lean Six Sigma
-- Profissional Lean
-- Green Belt Lean Six Sigma
-- Cronometragem e Cronoanálise
-- Técnico em mecânica industrial - SENAI
-- Programação Power BI
-- Programação Python
-
-**Experiências com:**
-- Analises de dados
-- Gerenciamento de KPIs Industriais
-- Qualidade de Dados
-- Gerenciamento de projetos Lean Manufacturing
-- Piloto implementação programa SIM-FCA (Pilares WCM)
-- Desenvolvimento e implementação TPS
-- Auto gerenciamento de rotinas
-- Desenvolvimento de equipes
-- Experiência com trabalho em campo (Brasil e Exterior)
-- Projetos Mecânicos
-- Programação de Manutenção
-- Professor Ensino Técnico SENAI
 
 **Conhecimento prático com softwares:**
-- Coleta e armazenamento de dados em SQL e NoSQL: Anaconda, Spark, MySQL, PostgreSQL, SQL Server, MongoDB, MariaDB entre outras.
-- Processamento e Análise de Dados: R, Python, Tableau, Power BI, Google Analytics, MATLAB, MiniTAB entre outras.
-- Desenvolvimento: Anaconda, Git e Linux.
-- Visualização de dados: Power BI, Python, R, Data Studio, Tableau, Grafana, Metabase.
-- Experiência em construções de Dashboard's
-- Ferramentas de processos de ETL e ELT 
-- Modelagem de Aprendizado de Máquina: Classificação, Regressão, Clustering e Séries Temporais.
-- Conhecimento da linguagem Python e/ou R
-- Office 365
-- Conhecimento em modelagem SolidWorks e CATIA V5
-- Capacidade de comunicação e interpretação de problemas juntos às áreas de negócio.
+Conhecimentos, Competências e Habilidades:
+- Graduado (Bacharel) em Engenharia Mecânica.
+- Pós-graduado (especialização) em Engenharia Industrial 4.0
+- Experiência consolidada em trabalhos de Data Analytics e modelagem estatística;
+- Conhecimentos avançados em ferramentas de BI, desenvolvimento e manutenção de dasboard para KPI em: Power BI, Tableau, DataStudio, Metabase, QlikView, QlikSense, Grafana;
+- Experiência em Process Mining e Data Mining;
+- Conhecimento de linguagem, estrutura de dados e manipulação de DataFrames, Banco de Dados SQL e NoSQL: MySQL, SQL-Server, PostgreSQL;
+- Experiencia com Python, R, Spark, e bibliotecas como Numpy, Pandas, Keras, Matplotlib, mleap, Sklearn, Seaborn;
+- Conhecimento em algoritmos de classificação, árvores de decisão, redes neurais;
+- Experiência com métodos Ágeis (Lean/Agile/Kanban);
+- Experiência em implementação de Cultura Lean Manufacturing (TPS) e WCM (World Class Manufacturing) como líder de implementação e suporte;
+- Experiência em projetos com equipes multidisciplinares e multiculturais;
+- Apaixonado pelas tecnologias de Big Data e Machine Learning;
+- Experiência em modelagem SolidWorks e CATIA V5;
