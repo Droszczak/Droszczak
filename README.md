@@ -53,7 +53,7 @@ Nos últimos anos venho estudando Engenharia de Dados, Ciência de Dados e Gest�
 
 Hoje atuo como responsável por apoiar o negócio com Transformação Digital, bem como projetos relacionados a Análise de Dados/Big Data, atuando como Engenheiro/Cientista de Dados na área de Digital Indop, PMO & BI, em conjunto com as áreas de Manufatura, Logística e demais áreas de Operações da América Latina, tanto no desenvolvimento de PoCs e PoV, como na implementação de projetos, gerando insights para a implementação de melhorias com base nos dados de processos das operações industriais.
 
-Principais Responsabilidades:
+**Principais Responsabilidades:**
 - Realizar provas de conceito envolvendo Extração, Transformação e Análise de Dados pontuais (Visualização (DataViz), Análises de Correlação, Clusterização, Algoritmos de Classificação e outros), bem como atuar como gerente de projeto – coordenando a implementação de projetos desde a etapa de criação de Business Case e planejamento, até a entrega final, mensuração e apresentação dos resultados;
 - Identificar oportunidades de melhorias de processo através do uso dos dados (Process Mining) aplicando meus conhecimentos em Data Science para suportar PoC e PoV demandadas pela planta;
 - Atuo como agente de mudança para implantação de uma cultura “Data-Driven”, estabelecendo também parcerias com áreas de negócio atendidas, assim como com fornecedores que proveem as soluções;
@@ -81,8 +81,7 @@ Atualmente morando em Curitiba, e atuando como Engenheiro de Dados Sênior para 
 - Engenheiro Mecânico Graduado - UTP
 - Black Belt Lean Six Sigma
 
-**Conhecimento prático com softwares:**
-Conhecimentos, Competências e Habilidades:
+**Conhecimentos, Competências e Habilidades:**
 - Graduado (Bacharel) em Engenharia Mecânica.
 - Pós-graduado (especialização) em Engenharia Industrial 4.0
 - Experiência consolidada em trabalhos de Data Analytics e modelagem estatística;
