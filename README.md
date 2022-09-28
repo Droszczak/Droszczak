@@ -45,7 +45,7 @@
 </div>
 
 
-## Um pouco mais sobre minhas experiências e qualificações!
+## Um pouco mais sobre minhas experiências.
 
 Sou profissional Graguado em Engenharia Mecânica e Especialista em Industria 4.0 pela universidade Federal do Paraná - UFPR.
 
