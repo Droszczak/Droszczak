@@ -1,97 +1,89 @@
-## Olá, eu sou o Júlio César Droszczak, sou apaixonado por programação e tecnologia!
+# Júlio César Droszczak
 
-<div align="center">
-  <a href="https://github.com/Droszczak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Droszczak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Droszczak&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/evenogueira/github-readme-stats"/>
-</div>
+Sou **Especialista em Engenharia de Dados**, com foco em análises e soluções de Business Intelligence (BI) e gerenciamento de dados. Tenho graduação em Engenharia Mecânica, com Especialização em Indústria 4.0 e MBA em Engenharia de Dados na Cloud.
 
-## Já trabalhei e/ou trabalho com...
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+Minha expertise abrange ferramentas como Power BI, Databricks, BigQuery, SQL, PySpark, DAX e M, além de ser administrador de ambientes no Microsoft Fabric. Também atuo no desenvolvimento de arquiteturas de BI no Centro de Excelência (CoE), com treinamentos voltados para governança de dados, otimização de relatórios, e boas práticas de DataViz.
+
+Tenho forte experiência em Data Analytics, Process Mining, metodologias ágeis (Lean, Agile, Kanban), e faço mentoria para profissionais que buscam crescer na área de dados.
+
+### 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-droszczak/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55041999543814)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:julio.droszczak@ufpr.br)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/julio_droszczak_48198/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocesardroszczak/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Droszczak/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Droszczak&theme=transparent&bg_color=151515&border_color=9f9f9f&show_icons=true&icon_color=79ff97&title_color=fff&text_color=9f9f9f)
+
+## Principais Ferramentas que utilizo
+
+#### 📋 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+#### 💾 Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+#### ☁️ Serviço de Computação em Nuvem
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### 🖥️ Sistema Operacional
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 📊 Ferramentas de BI e Analytics 
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)
+
+#### 🌐 ETL
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+
+#### 💻 IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-- SQLServer
-- Redis
-- Redshift
-- Metabase
-- Grafana
-- DataStudio
-- E outros...
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-### 🔗 Links para contato.
- 
-<div>
-  <a href="https://www.linkedin.com/in/julio-cesar-droszczak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/juliocesardroszczak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:julio.droszczak@ufpr.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>
+#### Outros
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Um pouco mais sobre mim...
 
-## Um pouco mais sobre minhas experiências.
+Atualmente, sou **Especialista em Engenharia de Dados**, focado em impulsionar soluções de Business Intelligence (BI) e gerenciamento de dados. Com uma sólida formação em Engenharia Mecânica, Especialização em Indústria 4.0 e MBA em Engenharia de Dados na Cloud, minha trajetória combina uma forte base técnica com visão estratégica de negócios.
 
-Sou profissional Graguado em Engenharia Mecânica e Especialista em Industria 4.0 pela universidade Federal do Paraná - UFPR.
+**💡 O que eu faço?**
 
-Nos últimos anos venho estudando Engenharia de Dados, Ciência de Dados e Gestão, buscando combinar soft e hard skills, para meu desenvolvimento profissional.
+Minha missão é transformar dados em insights valiosos, sempre com foco em soluções de BI eficientes. Trabalho com ferramentas como Power BI, Databricks, BigQuery, utilizando SQL, PySpark, DAX e Linguagem M para construir e otimizar modelos de dados, dashboards e relatórios.
 
-Hoje atuo como responsável por apoiar o negócio com Transformação Digital, bem como projetos relacionados a Análise de Dados/Big Data, atuando como Engenheiro/Cientista de Dados na área de Digital Indop, PMO & BI, em conjunto com as áreas de Manufatura, Logística e demais áreas de Operações da América Latina, tanto no desenvolvimento de PoCs e PoV, como na implementação de projetos, gerando insights para a implementação de melhorias com base nos dados de processos das operações industriais.
+**🛠 Minhas principais atividades incluem:**
+* Administração de ambientes e capacidades no Microsoft Fabric, principalmente no Power BI Service, gerindo o uso e otimizando a performance dos relatórios.
+* Treinamentos e consultoria interna sobre Governança de Dados, incluindo a otimização de relatórios e modelos semânticos, além da criação de padrões de DataViz e melhores práticas em BI.
+* Atuação no Centro de Excelência (CoE), desenvolvendo Arquiteturas de BI alinhadas às necessidades de negócios.
 
-**Principais Responsabilidades:**
-- Realizar provas de conceito envolvendo Extração, Transformação e Análise de Dados pontuais (Visualização (DataViz), Análises de Correlação, Clusterização, Algoritmos de Classificação e outros), bem como atuar como gerente de projeto – coordenando a implementação de projetos desde a etapa de criação de Business Case e planejamento, até a entrega final, mensuração e apresentação dos resultados;
-- Identificar oportunidades de melhorias de processo através do uso dos dados (Process Mining) aplicando meus conhecimentos em Data Science para suportar PoC e PoV demandadas pela planta;
-- Atuo como agente de mudança para implantação de uma cultura “Data-Driven”, estabelecendo também parcerias com áreas de negócio atendidas, assim como com fornecedores que proveem as soluções;
-- Realizo estudo de viabilidade técnica de soluções de TI, atendendo às definições de arquitetura nos níveis local, regional e global.
+**🚀 Minhas habilidades e expertise incluem:**
+* **Data Analytics, DataViz, Data Engineering e Data Science:** Ampla experiência em análises aplicadas a diversas áreas de negócio.
+* **Ferramentas de BI:** Power BI, Tableau, Looker, Metabase, Python, R.
+* **Mineração de Dados e Process Mining:** Aplicações para otimizar fluxos de trabalho e processos empresariais.
+* Metodologias Ágeis: Vivência em Lean, Agile e Kanban para gestão de projetos e desenvolvimento contínuo.
+* **Mentoria e Treinamentos:** Experiência em capacitação de equipes, tanto na empresa quanto em iniciativas da comunidade.
 
-Como falei acima tenho boas experiências profissionais como Engenheiro de Dados, Analista e Lider Lean Manufacturing em Processos. Você pode saber um pouco mais sobre minhas experiências de trabalho em meu perfil no [**LinkedIn**.](https://www.linkedin.com/in/julio-cesar-droszczak/)
+**🔧 Projetos de TI e Inovação:** Atuei em diversos projetos de TI, como a migração de sistemas legados e implementação de soluções integradas, sempre buscando agregar valor aos negócios.
 
-Atualmente morando em Curitiba, e atuando como Engenheiro de Dados Sênior para Electrolux, onde sou o responsável por apoiar o negócio com Transformação Digital, realizando provas de conceito envolvendo Extração, Transformação e Análise de Dados pontuais (Visualização (DataViz), Análises de Correlação, Clusterização, Algoritmos de Classificação e outros), bem como atuando como gerente de projeto – coordenando a implementação de projetos desde a etapa de criação de Business Case e planejamento, até a entrega final, mensuração e apresentação dos resultados.
+**📈 Mentoria e Desenvolvimento de Talentos:** Tenho orgulho de ser mentor para profissionais que buscam evoluir suas carreiras na área de dados. Acredito no poder da colaboração e da educação contínua para impulsionar a inovação.
 
-### 🎯 **Qualificações, Habilidades e Experiências que possuo**
-
-**Minhas Principais Responsabilidades hoje onde trabalho:**
-- Estruturar e gerenciar banco de dados;
-- Desenvolver relatórios de resultados;
-- Desenvolver KPI’s;
-- Automatizar rotinas de extração para envio automático;
-- Criar Dashboards para acompanhar a visão do negócio;
-- Avaliar a eficácia e a precisão de novas fontes de dados e técnicas de coleta de dados;
-- Apoiar quaisquer áreas para levantamento de informações específicas.
-- Modelos de previsão (Machine Learning)
-
-**Minhas principais formações:**
-- Especializando em Engenharia Industrial 4.0 - UFPR
-- Mestrando Engenharia de Manufatura - UFPR
-- Engenheiro Mecânico Graduado - UTP
-- Black Belt Lean Six Sigma
-
-**Conhecimentos, Competências e Habilidades:**
-- Graduado (Bacharel) em Engenharia Mecânica.
-- Pós-graduado (especialização) em Engenharia Industrial 4.0
-- Experiência consolidada em trabalhos de Data Analytics e modelagem estatística;
-- Conhecimentos avançados em ferramentas de BI, desenvolvimento e manutenção de dasboard para KPI em: Power BI, Tableau, DataStudio, Metabase, QlikView, QlikSense, Grafana;
-- Experiência em Process Mining e Data Mining;
-- Conhecimento de linguagem, estrutura de dados e manipulação de DataFrames, Banco de Dados SQL e NoSQL: MySQL, SQL-Server, PostgreSQL;
-- Experiencia com Python, R, Spark, e bibliotecas como Numpy, Pandas, Keras, Matplotlib, mleap, Sklearn, Seaborn;
-- Conhecimento em algoritmos de classificação, árvores de decisão, redes neurais;
-- Experiência com métodos Ágeis (Lean/Agile/Kanban);
-- Experiência em implementação de Cultura Lean Manufacturing (TPS) e WCM (World Class Manufacturing) como líder de implementação e suporte;
-- Experiência em projetos com equipes multidisciplinares e multiculturais;
-- Apaixonado pelas tecnologias de Big Data e Machine Learning;
-- Experiência em modelagem SolidWorks e CATIA V5;
+Estou sempre em busca de novos desafios para expandir meu conhecimento e impactar positivamente as organizações através da análise de dados e soluções de BI.
